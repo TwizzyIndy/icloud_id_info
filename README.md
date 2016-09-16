@@ -3,7 +3,7 @@ Get Apple Account Informations using some APIs
 
 ## Usage
 
-If you just simply check the informations for your account with your credentials, just type as below
+If you just want to check the informations for your account with your credentials, just type as below
 
 python icloud_id_info.py APPLE_ID PASSWORD
 
